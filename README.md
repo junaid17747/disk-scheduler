@@ -11,7 +11,7 @@ An interactive web application that visualizes six classic disk scheduling algor
 
 ## 🌐 Live Demo
 
-👉 **[disk-scheduler.vercel.app](https://disk-scheduler.vercel.app)**
+👉 **[disk-scheduler.vercel.app](https://disk-scheduler-ten.vercel.app/)**
 
 ---
 
