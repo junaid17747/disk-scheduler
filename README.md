@@ -201,7 +201,6 @@ firebase deploy
 ## 👨‍💻 Author
 
 Made as part of the **Operating Systems Laboratory Mini Project**
-Subject Code: CS-OS-LAB | AY 2025–26
 
 ---
 
